@@ -1,0 +1,7 @@
+- opencv_python_headless == 4.8.0.74
+- pillow == 10.0.0
+- config_parser == 0.0.1
+- tensorflow == 2.13
+- tensorflow_metal == 1.0.1
+- matplotlib == 3.7.1
+- split_folders == 0.5.1
